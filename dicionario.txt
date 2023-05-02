@@ -1,0 +1,4 @@
+sim,yes
+não,no
+livro,book
+mesa,table
